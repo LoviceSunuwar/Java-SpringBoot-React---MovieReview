@@ -31,11 +31,9 @@ The backend is structured with multiple layers:
 
 - **Postman Testing**: All APIs were rigorously tested using Postman to validate functionality and ensure reliable data retrieval and storage. Below is a screenshot demonstrating testing of the APIs:
 
-  ![Postman Testing Screenshot](link-to-postman-screenshot)
 
 - **Frontend Testing**: React frontend components were tested with live API calls to ensure data flows seamlessly between backend and frontend.
 
-  ![Frontend Screenshot](link-to-frontend-screenshot)
 
 ## Project Structure
 
